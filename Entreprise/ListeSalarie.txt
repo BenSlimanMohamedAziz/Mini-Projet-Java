@@ -1,3 +1,0 @@
-Salarie [Mat=1, Nom=aziz, Email=aziz@mail.com, DateEmbauche=2015.0, Salaire=2340.0, Categorie=Employe]
-Salarie [Mat=2, Nom=mounir, Email=mounir@mail.com, DateEmbauche=2015.0, Salaire=2640.0, Categorie=Employe]
-Salarie [Mat=3, Nom=Rami, Email=Ahmed@gmail.com, DateEmbauche=2003.0, Salaire=700.0, Categorie=Vendeur]
